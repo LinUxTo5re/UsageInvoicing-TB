@@ -1,0 +1,14 @@
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\bin\Debug\net8.0\UsageInvoicing.exe
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\bin\Debug\net8.0\UsageInvoicing.deps.json
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\bin\Debug\net8.0\UsageInvoicing.runtimeconfig.json
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\bin\Debug\net8.0\UsageInvoicing.dll
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\bin\Debug\net8.0\UsageInvoicing.pdb
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\obj\Debug\net8.0\UsageInvoicing.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\obj\Debug\net8.0\UsageInvoicing.AssemblyInfoInputs.cache
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\obj\Debug\net8.0\UsageInvoicing.AssemblyInfo.cs
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\obj\Debug\net8.0\UsageInvoicing.csproj.CoreCompileInputs.cache
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\obj\Debug\net8.0\UsageInvoicing.dll
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\obj\Debug\net8.0\refint\UsageInvoicing.dll
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\obj\Debug\net8.0\UsageInvoicing.pdb
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\obj\Debug\net8.0\UsageInvoicing.genruntimeconfig.cache
+C:\users\CAJABE\Desktop\Test-3-ThinkBridge\OneDrive_2025-11-19 (1)\Coding Task\UsageInvoicing\obj\Debug\net8.0\ref\UsageInvoicing.dll
